@@ -13,8 +13,8 @@ concatenate the two strings
 text_with_low_value.append(concatenated string)
 return the concatenated string as a list
 #perfom cyclic rotations to see all possible positionings of the string and store all the cyclic rotations in a list
-if i != $:
 for i in concatennated_string:
+rotations = sorted(text[i:] + text[:i]
  
 
 
